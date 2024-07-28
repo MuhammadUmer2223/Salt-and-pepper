@@ -1,0 +1,39 @@
+/* navbar started */
+.nav{
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.nav-child1{
+    font-size: 2rem;
+    
+    /* padding: 20px; */
+}
+.bgred{
+    background-color: red;
+}
+.bgblack{
+    background-color: black;
+}
+.btn-frenchise{
+    background-color: transparent;
+    color: white;
+    border: 1px solid #ffffff;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.btn-online{
+    border-radius: 25px;
+    padding: 10px 20px;
+    background-color: red;
+}
+
+
+
+
+
+/* 
+navbar enf */

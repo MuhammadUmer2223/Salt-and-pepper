@@ -1,0 +1,36 @@
+html{
+    font-size: 62.5%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dflex{
+    display: flex;
+}
+text-center{
+    text-align: center;
+}
+.text-none{
+    text-decoration: none;
+    color: #ffffff;
+}
+:root{
+    --red: #ed1c24;
+    --white: #ffffff;
+    --black: #000000;
+    --green: #28a745;
+}
+.gap{
+    gap: 30px;
+}
+body{
+    background-color: var(--black);
+}
+.item-center{
+    align-items: center;
+}
+.text-white{
+    color: white;
+}
