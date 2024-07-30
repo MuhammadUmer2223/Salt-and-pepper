@@ -1,4 +1,13 @@
 /* navbar started */
+
+@font-face {
+    font-family: Poppins;
+    src: url(./fonts/Poppins-Light.ttf);
+}
+
+html{
+    font-family: Poppins;
+}
 .nav{
     display: flex;
     height: 100px;
@@ -23,17 +32,42 @@
     border: 1px solid #ffffff;
     padding: 10px 20px;
     border-radius: 25px;
+    height: 50px;
+}
+circle{
+    border-radius: 10px 10px;
+    background-color: #ffffff;
 }
 
 .btn-online{
     border-radius: 25px;
     padding: 10px 20px;
     background-color: red;
+    height: 50px;
+    width: 130px;
 }
 
-
-
-
-
 /* 
-navbar enf */
+navbar end */
+
+/* sectiokn 1 css */
+.section1{
+    justify-content: center;
+    padding: 50px;
+    display: flex;
+}
+.section-child{
+    margin: 10px;
+    padding: 20px;
+
+}
+.btn-order{
+    margin-top: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    margin-left: 30px;
+
+}

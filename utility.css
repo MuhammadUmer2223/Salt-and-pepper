@@ -12,6 +12,12 @@ html{
 text-center{
     text-align: center;
 }
+.center{
+    margin-top: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
 .text-none{
     text-decoration: none;
     color: #ffffff;
@@ -33,4 +39,13 @@ body{
 }
 .text-white{
     color: white;
+}
+.justify-center{
+    justify-content: center;
+}
+.bg-white{
+    background-color: var(--white);
+}
+dflex-column{
+    flex-direction: column;
 }
