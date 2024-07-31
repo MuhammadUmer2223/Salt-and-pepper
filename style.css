@@ -71,3 +71,13 @@ navbar end */
     margin-left: 30px;
 
 }
+.font-size{
+    font-size: small;
+}
+.section2{
+    justify-content: space-around;
+    padding: 50px;
+    display: flex;
+    color: white;
+    margin: 20px;
+}

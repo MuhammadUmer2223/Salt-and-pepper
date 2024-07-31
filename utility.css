@@ -49,3 +49,6 @@ body{
 dflex-column{
     flex-direction: column;
 }
+.text-red{
+    color: red;
+}
