@@ -52,3 +52,24 @@ dflex-column{
 .text-red{
     color: red;
 }
+.text-large{
+    font-size: 2rem;
+}
+.text-medium{
+    font-size: 1.5rem;
+}
+.right-margin{
+    margin-left: 40px;
+}
+padding{
+    padding: 10px;
+}
+.margin{
+    10px;
+}
+item-left{
+    justify-items: left;
+}
+.text-center{
+    text-align: center;
+}
