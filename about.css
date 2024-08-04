@@ -1,0 +1,24 @@
+.intro{
+
+    text-align: center;
+    color: #ffffff;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    margin: 30px 150px 30px 150px;
+}
+.font-family{
+    font-family: 'Courier New', Courier, monospace;
+}
+.rest-sec1{
+    justify-content: space-evenly;
+    padding: 50px;
+    display: flex;
+    color: white;
+
+}
+.rest-sec2{
+        margin: 10px;
+        padding: 20px;
+    
+    }
