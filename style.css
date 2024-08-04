@@ -146,3 +146,52 @@ tex-left{
         margin: 15px;
         font-size: medium;
     }
+
+    /* express section ends */
+
+    /* social feed section css */
+    .social-feed{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: 0px;
+        
+    }
+    .social-feed-child{
+
+    }
+
+/* 
+    footer */
+
+    .footer{
+        background-color: rgb(19, 15, 15);
+        display: flex;
+        justify-content: space-around;
+        color: #ffffff;
+        margin: 20px;
+        padding: 30px;
+    }
+    .footer-child{
+        width: 350px;
+        font-size: 1.2rem;
+        margin: 10px;
+        
+    }
+    .footer-circle{
+        border-radius: 50%;
+        background-color: red;
+        color: #ffffff;
+        width: 500px;
+        height: 500px;
+        font-size : large;
+
+        }
+       
+        .footer-end{
+            display: flex;
+            border: 1ps solid white;
+            color: #ffffff;
+            justify-content: space-around;
+        }
+    
