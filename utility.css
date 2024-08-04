@@ -61,15 +61,18 @@ dflex-column{
 .right-margin{
     margin-left: 40px;
 }
-padding{
-    padding: 10px;
+.padding{
+    padding: 20px;
 }
 .margin{
-    10px;
+    margin: 10px;
 }
 item-left{
     justify-items: left;
 }
 .text-center{
     text-align: center;
+}
+.justify-center{
+    justify-content: center;
 }

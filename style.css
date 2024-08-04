@@ -99,3 +99,50 @@ tex-left{
     margin: 5px;
     padding: 10px;
     }
+/* 
+    village section css */
+    .village-section{
+        /* justify-content: center; */
+        color:#ffffff;
+        margin-top: 30px;
+        padding: 40px;
+        text-align: center;
+        font-size: 4rem;
+        background-color: rgb(5, 11, 11);
+    }
+    .parent{
+        display: flex;
+        color: #ffffff;
+    }
+    .village-section-child{
+        padding-top: 120px;
+        margin: 20px;
+    }
+
+    /* village section css completed */
+
+    /* express section css */
+    .express-section{
+        /* justify-content: center; */
+        color:#ffffff;
+        margin-top: 30px;
+        padding: 40px;
+        text-align: center;
+        font-size: 4rem;
+        background-color: rgb(5, 11, 11);
+    }
+    .express{
+        display: flex;
+        justify-content: center;
+        /* margin: 10px; */
+        padding: 10px;
+
+    }
+    .express-child{
+        background-color: #ffffff;
+        text-align: center;
+        width: 300px;
+        padding: 5px;
+        margin: 15px;
+        font-size: medium;
+    }
