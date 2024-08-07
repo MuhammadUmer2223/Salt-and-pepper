@@ -1,0 +1,15 @@
+.p-parent{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.p-child{
+    
+    border: 1px solid grey;
+    height: 550px;
+    margin: 15px;
+    padding: 20px;
+    
+}

@@ -4,7 +4,9 @@
     font-family: Poppins;
     src: url(./fonts/Poppins-Light.ttf);
 }
-
+.poppins-light{
+font-family: Poppins-Italic;
+}
 html{
     font-family: Poppins;
 }
@@ -13,6 +15,7 @@ html{
     height: 100px;
     justify-content: space-around;
     padding: 20px;
+    
     
 }
 .nav-child1{
@@ -193,5 +196,7 @@ tex-left{
             border: 1ps solid white;
             color: #ffffff;
             justify-content: space-around;
+            padding: 20px;
+            align-items: center;
         }
     
