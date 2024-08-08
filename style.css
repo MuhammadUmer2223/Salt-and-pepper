@@ -37,9 +37,11 @@ html{
     border-radius: 25px;
     height: 50px;
 }
-circle{
-    border-radius: 10px 10px;
+.circle{
+    border-radius: 20px;
     background-color: #ffffff;
+    color: red;
+    padding: 5px 10px;
 }
 
 .btn-online{
@@ -47,7 +49,7 @@ circle{
     padding: 10px 20px;
     background-color: red;
     height: 50px;
-    width: 130px;
+    width: 160px;
 }
 
 /* 

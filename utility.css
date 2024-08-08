@@ -77,3 +77,6 @@ item-left{
 .justify-center{
     justify-content: center;
 }
+.no-bullet{
+    list-style-type: none;
+}
